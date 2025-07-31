@@ -1,0 +1,128 @@
+hello | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+job openings | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('1d18e8524ad6e060930e4c607a12a92e352a1963c6f8d98bbd59c6a01e102007', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+internship | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('aed7e01a3eb8634a524e8ca7bf0593391ad6a47abfaa89592457f9cc7bfad5bf', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+what is hirebie? | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('d70a48e4dda7ae7da1ca7b03c84a4fe5e93b68b59cf0a4f89878a110b9b023b1', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+job openings | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('1d18e8524ad6e060930e4c607a12a92e352a1963c6f8d98bbd59c6a01e102007', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+what is hirebie? | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('d70a48e4dda7ae7da1ca7b03c84a4fe5e93b68b59cf0a4f89878a110b9b023b1', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+what do yo do | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('233c3e37faff6093e7a06cdeb3a2709787a18683936b248bf803197e7fe1d821', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+hi | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+interships | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('2e396871128b0a438b9af3eefa50bb846a9828fedf22955823d6e912d4d14a2d', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+what is hirebie? | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('d70a48e4dda7ae7da1ca7b03c84a4fe5e93b68b59cf0a4f89878a110b9b023b1', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+interships | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('2e396871128b0a438b9af3eefa50bb846a9828fedf22955823d6e912d4d14a2d', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+internship | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('aed7e01a3eb8634a524e8ca7bf0593391ad6a47abfaa89592457f9cc7bfad5bf', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+intership | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('f62c6ed014d1b1017ee528b2a8309ef4c7c79f7577af896ed87e79ece3550524', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+interships | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('2e396871128b0a438b9af3eefa50bb846a9828fedf22955823d6e912d4d14a2d', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+what is hirebie? | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('d70a48e4dda7ae7da1ca7b03c84a4fe5e93b68b59cf0a4f89878a110b9b023b1', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+interships | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('2e396871128b0a438b9af3eefa50bb846a9828fedf22955823d6e912d4d14a2d', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+job openings | app.py error: (sqlite3.OperationalError) no such column: gpt_cache.updated_at
+[SQL: SELECT gpt_cache.id AS gpt_cache_id, gpt_cache.query_hash AS gpt_cache_query_hash, gpt_cache.response AS gpt_cache_response, gpt_cache.timestamp AS gpt_cache_timestamp, gpt_cache.updated_at AS gpt_cache_updated_at 
+FROM gpt_cache 
+WHERE gpt_cache.query_hash = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('1d18e8524ad6e060930e4c607a12a92e352a1963c6f8d98bbd59c6a01e102007', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+do you offer 24/7 support
+What is Hirebie?
+do you design webstie
+tell me about that
+tell me about that
+interships
+interships
+Internship
+What is Hirebie?

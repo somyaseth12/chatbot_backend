@@ -1,0 +1,1226 @@
+[
+   {
+    "question": "Can I overlap design and dev work?",
+    "answer": "Yes — we use parallel workflows so different teams can work simultaneously to save time."
+  },
+  {
+    "question": "How long does QA testing take?",
+    "answer": "QA takes 1–2 weeks depending on project size, and it's included in your timeline and milestone plan."
+  },
+   {
+    "question": "Can you produce marketing videos?",
+    "answer": "Yes — we script, shoot, edit, and deliver marketing videos, explainer animations, or product clips."
+  },
+  {
+    "question": "Internship",
+    "answer": "We offer internships in Data Science, Web Development, and AI."
+  },
+  {
+    "question": "Job Openings",
+    "answer": "We are hiring for Frontend Developer, Backend Developer, and Data Analyst roles."
+  },
+  {
+    "question": "Hello",
+    "answer":"Hi This is your smart AI assistant, designed to make communication easier."
+  },
+   {
+    "question": "Hi",
+    "answer":"Hi This is your smart AI assistant, designed to make communication easier."
+  },
+   {
+    "question": "Hey",
+    "answer":"Hi This is your smart AI assistant, designed to make communication easier."
+  },
+  {
+    "question": "What is Hirebie?",
+    "answer": "Hirebie is your smart AI hiring assistant, designed to make recruitment easier."
+  },
+  {
+    "question": "What services does Hirebie.com offer?",
+    "answer": "We provide fullstack web and app development, UI/UX design, branding, digital marketing, content creation, and startup consulting."
+  },
+  {
+    "question": "Do you build both mobile apps and websites?",
+    "answer": "Yes — our team designs and develops responsive websites as well as native Android and iOS apps tailored to your needs."
+  },
+  {
+    "question": "Can you help with branding and messaging?",
+    "answer": "Absolutely! We create logos, brand identity, tone of voice, and messaging that connect with your target audience."
+  },
+  {
+    "question": "Do you offer content creation services?",
+    "answer": "Yes, we write blogs, social media posts, videos, and graphics crafted to support your marketing goals."
+  },
+  {
+    "question": "What digital marketing do you provide?",
+    "answer": "We offer SEO, PPC ads, social media, email campaigns, and marketing analytics to help your business grow."
+  },
+  {
+    "question": "Do you integrate third-party APIs?",
+    "answer": "Yes, we can connect your website or app to payment gateways, CRMs, analytics tools, and more."
+  },
+  {
+    "question": "Can you redesign an existing website?",
+    "answer": "Absolutely — we can refresh your UI/UX, improve performance, and migrate content with minimal downtime."
+  },
+  {
+    "question": "Do you build e-commerce platforms?",
+    "answer": "Yes — we develop online stores with secure payment integrations, inventory management, and SEO best practices."
+  },
+  {
+    "question": "Can you handle SaaS product development?",
+    "answer": "Yes — we build, deploy, and maintain SaaS platforms with subscription billing, user roles, and analytics."
+  },
+  {
+    "question": "Do you offer API development?",
+    "answer": "Yes, we create RESTful and GraphQL APIs, microservices, and backend systems custom-fit to your needs."
+  },
+  {
+    "question": "Can I hire branding only?",
+    "answer": "Certainly — we offer standalone branding packages that include logo, visual guidelines, and messaging frameworks."
+  },
+  {
+    "question": "Do you support ongoing maintenance?",
+    "answer": "Yes — post-launch support, upgrades, bug fixes, and feature additions are available on retainer."
+  },
+  {
+    "question": "Do you create social media content?",
+    "answer": "Absolutely — we design engaging posts, stories, reels, and campaigns tailored to each platform's style."
+  },
+  {
+    "question": "Can you write website copy and blogs?",
+    "answer": "Yes — we offer copywriting and content services, including SEO-friendly blog posts and landing pages."
+  },
+  {
+    "question": "Do you perform SEO audits?",
+    "answer": "Yes — comprehensive SEO audits include keyword research, technical fixes, and optimization plans."
+  },
+  {
+    "question": "Can you run PPC ad campaigns?",
+    "answer": "We do — we set up and manage Google Ads, Facebook Ads, LinkedIn Ads, and track performance."
+  },
+  {
+    "question": "Do you provide email marketing?",
+    "answer": "Yes — we strategize, design emails, automate sequences, and analyze open and click-through rates."
+  },
+  {
+    "question": "Can you help with product-market fit?",
+    "answer": "Yes — our consulting services include market validation, user testing, and go-to-market strategy."
+  },
+  {
+    "question": "Do you build chatbots or AI tools?",
+    "answer": "Yes — we create chatbots, recommendation engines, and simple AI integrations to enhance user experience."
+  },
+  {
+    "question": "How do you structure custom quotes?",
+    "answer": "We review your requirements, scope, and timeline to create a transparent quote with milestones."
+  },
+  {
+    "question": "Can I request a breakdown of costs?",
+    "answer": "Absolutely — every quote includes line-by-line pricing for design, development, testing, and delivery."
+  },
+  {
+    "question": "Is there a discount for startup budgets?",
+    "answer": "Yes — we offer startup-friendly rates, deferred payment options, and equity-based agreements."
+  },
+  {
+    "question": "Can I upgrade my package later?",
+    "answer": "Yes — you can add services mid-project and we'll adjust your proposal and timeline accordingly."
+  },
+  {
+    "question": "Do you offer multiple payment methods?",
+    "answer": "Yes — we accept bank transfers, cards, PayPal, Stripe, and local payment options depending on your region."
+  },
+  {
+    "question": "Are retained services billed monthly?",
+    "answer": "Yes — retained services like maintenance or marketing are invoiced monthly with performance tracking."
+  },
+  {
+    "question": "Can I switch from one-time to retainer services?",
+    "answer": "Yes — many clients transition to retainers after their project launches successfully."
+  },
+  {
+    "question": "Do you offer money-back guarantees?",
+    "answer": "Yes — we offer satisfaction guarantees or partial refunds if deliverables are not completed as agreed."
+  },
+  {
+    "question": "Is pricing inclusive of taxes?",
+    "answer": "All quotes show pre-tax and post-tax totals, so you always know final costs up front."
+  },
+  {
+    "question": "Do you charge for discovery calls?",
+    "answer": "No — discovery calls are free and help us understand your needs before moving forward."
+  },
+  {
+    "question": "What’s the shortest delivery time?",
+    "answer": "Simple websites or marketing packages can be delivered in 2–3 weeks; more complex work takes longer."
+  },
+  {
+    "question": "Can you work with tight deadlines?",
+    "answer": "Yes — we offer rapid delivery packages at an expedited rate if needed."
+  },
+  {
+    "question": "Do you provide a project timeline?",
+    "answer": "Yes — every project begins with a detailed schedule, including milestones and review checkpoints."
+  },
+  {
+    "question": "How often do we get progress updates?",
+    "answer": "We send weekly progress reports and hold milestone review meetings."
+  },
+  {
+    "question": "Can I request a mid-cycle review?",
+    "answer": "Absolutely — you can schedule feedback sessions at any point in the project."
+  },
+  {
+    "question": "What happens if there’s a delay?",
+    "answer": "We notify you immediately, assess impact, and propose a revised schedule."
+  },
+  {
+    "question": "Do you guarantee timelines?",
+    "answer": "We aim to meet all deadlines. If a delay is our fault, we’ll prioritize corrections and accommodations."
+  },
+  {
+    "question": "Do you support soft launches?",
+    "answer": "Yes — we can soft-launch your site or app to a limited audience before full release."
+  },
+  {
+    "question": "Can you customize templates?",
+    "answer": "Yes — we can tailor any template to match your brand and project needs."
+  },
+  {
+    "question": "Do you offer custom UI/UX design?",
+    "answer": "Absolutely — we craft unique interfaces based on user research and brand guidelines."
+  },
+  {
+    "question": "Can I request feature changes mid-project?",
+    "answer": "Yes — we welcome feature tweaks and can accommodate them within scope or with a change request."
+  },
+  {
+    "question": "Do you build multilingual platforms?",
+    "answer": "Yes — we develop websites and apps with language-switch options and localization support."
+  },
+  {
+    "question": "Can you integrate custom databases?",
+    "answer": "Yes — whether SQL or NoSQL, we design and hook up databases to track user data effectively."
+  },
+  {
+    "question": "Do you support scalable architectures?",
+    "answer": "Yes — we build systems that grow with your business, using cloud or microservice architectures."
+  },
+  {
+    "question": "Can I request custom animations?",
+    "answer": "Of course — we add animations and interactions to make your site or app more engaging."
+  },
+  {
+    "question": "Do you handle accessibility compliance?",
+    "answer": "Yes — we follow WCAG guidelines to ensure your site or app is accessible to all users."
+  },
+  {
+    "question": "Can I add live chat to my website?",
+    "answer": "Yes — we integrate chatbots or live chat tools like Intercom or Drift."
+  },
+  {
+    "question": "Do you build custom dashboards?",
+    "answer": "Yes — we create admin dashboards with analytics, user controls, and reports based on your needs."
+  },
+  {
+    "question": "Do you work with startups?",
+    "answer": "Absolutely — we’re experienced in helping startups build MVPs, pitch decks, and product launches."
+  },
+  {
+    "question": "Can larger companies engage your services?",
+    "answer": "Absolutely — we work with enterprises on full-scale digital transformations and marketing strategies."
+  },
+  {
+    "question": "Do you serve NGOs or nonprofits?",
+    "answer": "Yes — we offer discounted rates and tailored solutions for nonprofits and community-driven initiatives."
+  },
+  {
+    "question": "Can educational institutions work with you?",
+    "answer": "Yes — we build LMS platforms, course content, and educational apps for schools and societies."
+  },
+  {
+    "question": "Do you support healthcare startups?",
+    "answer": "Absolutely — we develop patient portals, telehealth apps, and secure medical systems."
+  },
+  {
+    "question": "Do you work with entrepreneurs directly?",
+    "answer": "Yes — we collaborate with solo founders and small teams to build their vision from scratch."
+  },
+  {
+    "question": "Can larger companies engage your services?",
+    "answer": "Absolutely — we work with enterprises on full-scale digital transformation and marketing strategies."
+  },
+  {
+    "question": "Do you serve NGOs or nonprofits?",
+    "answer": "Yes — we offer discounted rates and tailored solutions for nonprofits and community-driven projects."
+  },
+  {
+    "question": "Can educational institutions work with you?",
+    "answer": "Yes — we build LMS platforms, course content, and educational apps for schools and institutes."
+  },
+  {
+    "question": "Do you support healthcare startups?",
+    "answer": "Absolutely — we develop patient portals, health tracking apps, and secure medical systems."
+  },
+  {
+    "question": "Can event planners hire you for digital needs?",
+    "answer": "Yes — we create event websites, ticketing platforms, and promotional marketing materials."
+  },
+  {
+    "question": "Do e‑commerce businesses fit your model?",
+    "answer": "Yes — we specialize in full-stack e‑commerce builds from Shopify to custom platforms."
+  },
+  {
+    "question": "Can you help SaaS platforms with growth?",
+    "answer": "Yes — we offer ongoing feature development, UX improvement, and marketing for SaaS products."
+  },
+  {
+    "question": "Do you support local businesses online?",
+    "answer": "Absolutely — we build websites, local SEO, Google My Business setups, and social campaigns."
+  },
+  {
+    "question": "Can tech startups hire mentorship support?",
+    "answer": "Yes — we offer product strategy consultancy, mentoring, and technology roadmapping."
+  },
+  {
+    "question": "How do we communicate during a project?",
+    "answer": "We use email, platform chat, video calls, and project management tools—whichever you prefer."
+  },
+  {
+    "question": "Can we book weekly check-in calls?",
+    "answer": "Yes — we schedule regular syncs via Zoom/Meet to keep everyone aligned and informed."
+  },
+  {
+    "question": "Do you use a dedicated project manager?",
+    "answer": "Yes — every project includes a project manager to coordinate tasks, communication, and timelines."
+  },
+  {
+    "question": "Can we choose our communication tools?",
+    "answer": "Yes — we adapt to tools like Slack, Teams, or Asana based on your team’s workflow."
+  },
+  {
+    "question": "How fast do you respond to messages?",
+    "answer": "Our standard response time is within one business day, often much quicker."
+  },
+  {
+    "question": "What happens if we miss a call?",
+    "answer": "If a scheduled meeting is missed, we’ll follow up and reschedule at the earliest convenience."
+  },
+  {
+    "question": "How do you handle client feedback?",
+    "answer": "We collect feedback after every milestone and adjust work based on your input."
+  },
+  {
+    "question": "Is there a shared document space?",
+    "answer": "Yes — we use Google Drive, Dropbox, or similar tools for centralized document sharing."
+  },
+  {
+    "question": "Can we access project updates 24/7?",
+    "answer": "Yes — your dashboard shows live updates on tasks, milestones, and communications."
+  },
+  {
+    "question": "What if I prefer phone calls?",
+    "answer": "No problem — we can switch to phone calls or provide local call options where applicable."
+  },
+  {
+    "question": "Do you offer long-term support contracts?",
+    "answer": "Yes — we provide retainer plans for maintenance, marketing, and ongoing updates."
+  },
+  {
+    "question": "Can I extend support after launch?",
+    "answer": "Yes — you can renew support plans anytime based on your post-launch needs."
+  },
+  {
+    "question": "Do you provide bug monitoring?",
+    "answer": "Absolutely — we monitor systems and fix bugs proactively as part of support packages."
+  },
+  {
+    "question": "Can you add new features after launch?",
+    "answer": "Yes — new features are handled via additional milestones or monthly retainers."
+  },
+  {
+    "question": "Is security monitoring part of support?",
+    "answer": "Yes — we include security scans, updates, and vulnerability checks for supported clients."
+  },
+  {
+    "question": "Do you offer performance audits?",
+    "answer": "Yes — we review system speed, code quality, and user performance as part of support."
+  },
+  {
+    "question": "Can I add creative marketing over time?",
+    "answer": "Of course — support packages can include ongoing content, ad campaigns, design, and outreach."
+  },
+  {
+    "question": "Is technical training included?",
+    "answer": "Yes — we train your team on CMS, dashboards, and tool usage at no extra cost."
+  },
+  {
+    "question": "Can I pause or pause support any time?",
+    "answer": "Yes — support plans are flexible and can be paused or adjusted monthly."
+  },
+  {
+    "question": "How do we request urgent support?",
+    "answer": "We offer priority support channels for urgent issues in premium support plans."
+  },
+  {
+    "question": "How do you protect my data?",
+    "answer": "Your data is encrypted, hosted securely, and backed up regularly following best industry standards."
+  },
+  {
+    "question": "Do you sign NDAs before starting work?",
+    "answer": "Yes — we sign NDAs, contracts, and agreements based on your requirements."
+  },
+  {
+    "question": "Are your systems GDPR compliant?",
+    "answer": "Yes — all processes comply with GDPR and applicable international data protection laws."
+  },
+  {
+    "question": "Can I control access to my project?",
+    "answer": "Yes — role-based permissions ensure only approved users see your project details."
+  },
+  {
+    "question": "How do you manage backups?",
+    "answer": "We maintain daily backups and offer recovery options as part of your service level."
+  },
+  {
+    "question": "Do you secure APIs and endpoints?",
+    "answer": "Absolutely — all code, API endpoints, and databases are secured and penetration-tested."
+  },
+  {
+    "question": "Can we review your security policies?",
+    "answer": "Yes — we provide documentation and details about our security protocols upon request."
+  },
+  {
+    "question": "Are user credentials stored safely?",
+    "answer": "Yes — we leverage encrypted password storage, session protection, and token-based access."
+  },
+  {
+    "question": "How do you handle security incidents?",
+    "answer": "We have an incident response plan and notify clients immediately of any breach or issues."
+  },
+  {
+    "question": "Do you test for vulnerabilities?",
+    "answer": "Yes — we conduct regular vulnerability scans and patch software promptly."
+  },
+  {
+    "question": "Can you build with my preferred tech stack?",
+    "answer": "Yes — we use your stack (PHP, Python, Node, React, etc.) or recommend the best one for your project."
+  },
+  {
+    "question": "Can I provide my own UI designs?",
+    "answer": "Yes — we can integrate your designs or work with your existing assets."
+  },
+  {
+    "question": "Do you handle content migration?",
+    "answer": "Yes — we transfer content from old sites, CMS systems, or documents to your new platform."
+  },
+  {
+    "question": "Can we choose hosting providers?",
+    "answer": "Certainly — we can deploy to AWS, Azure, Google Cloud, DigitalOcean, or whichever you prefer."
+  },
+  {
+    "question": "Do you integrate CRM platforms?",
+    "answer": "Yes — we connect with CRMs like Salesforce, HubSpot, Zoho, or custom systems."
+  },
+  {
+    "question": "Can you automate workflows?",
+    "answer": "Yes — we build automation for emails, data sync, notifications, and approvals."
+  },
+  {
+    "question": "Can I request a design audit?",
+    "answer": "Yes — UX/UI audits are available as standalone or part of development packages."
+  },
+  {
+    "question": "Do you support e-learning tools?",
+    "answer": "Absolutely — we build and integrate LMS platforms, course delivery systems, and interactive modules."
+  },
+  {
+    "question": "Can you develop IoT-connected apps?",
+    "answer": "Yes — we work with hardware–software integrations, sensors, and device communication."
+  },
+  {
+    "question": "Do you handle multilingual SEO?",
+    "answer": "Yes — we optimize multilingual content, meta tags, and sitemaps for international visibility."
+  },
+  {
+    "question": "Can you develop IoT-connected apps?",
+    "answer": "Yes — we work with hardware–software integrations, sensors, and device communication."
+  },
+  {
+    "question": "Do you support multilingual SEO?",
+    "answer": "Yes — we optimize multilingual content, meta tags, and sitemaps for international visibility."
+  },
+  {
+    "question": "Can I get a custom analytics dashboard?",
+    "answer": "Yes — build bespoke dashboards for metrics like sales, user engagement, and campaign performance."
+  },
+  {
+    "question": "Do you offer white-label solutions?",
+    "answer": "Yes — our work can be fully rebranded under your name or agency."
+  },
+  {
+    "question": "Can you integrate payment gateways?",
+    "answer": "Certainly — we integrate Stripe, PayPal, Razorpay, and custom payment solutions."
+  },
+  {
+    "question": "Can you build offline-first apps?",
+    "answer": "Yes — apps can be built to work offline and sync when internet connection is restored."
+  },
+  {
+    "question": "Do you offer A/B testing support?",
+    "answer": "Yes — we set up tools like Google Optimize or Optimizely for data-driven testing."
+  },
+  {
+    "question": "Can you enable push notifications?",
+    "answer": "Yes — mobile and web push notifications can be configured as part of your app."
+  },
+  {
+    "question": "Do you provide hardware integrations?",
+    "answer": "Yes — we can connect apps with devices like QR scanners, beacons, and sensors."
+  },
+  {
+    "question": "Can you build chatbot-driven experiences?",
+    "answer": "Yes — we integrate chatbots via Dialogflow, Rasa, or custom AI engines."
+  },
+  {
+    "question": "Can freelancers use your services?",
+    "answer": "Yes — we help independent consultants develop their personal brand and portfolio."
+  },
+  {
+    "question": "Can investors request product audits?",
+    "answer": "Yes — we conduct technical and UX audits for investor diligence."
+  },
+  {
+    "question": "Do media agencies use Hirebie?",
+    "answer": "Yes — agencies partner with us for overflow work or complex builds."
+  },
+  {
+    "question": "Can agencies private-label your team?",
+    "answer": "Yes — agency-branded delivery is available via white-label contracts."
+  },
+  {
+    "question": "Do high-growth startups use Hirebie?",
+    "answer": "Yes — we’ve helped fast-scaling startups build teams and infrastructure."
+  },
+  {
+    "question": "Can we use Trello boards for project updates?",
+    "answer": "Yes — we integrate with Trello and share boards with your team."
+  },
+  {
+    "question": "Can we export chat logs?",
+    "answer": "\"Yes — chat histories can be downloaded for record-keeping or compliance.\""
+  },
+  {
+    "question": "Do you support weekly demos?",
+    "answer": "Yes — we schedule weekly demo sessions to demonstrate progress."
+  },
+  {
+    "question": "Can stakeholders join feedback calls?",
+    "answer": "Yes — clients can invite external stakeholders to review meetings."
+  },
+  {
+    "question": "Can I send messages outside the platform?",
+    "answer": "No — communication stays within Hirebie to ensure project security."
+  },
+  {
+    "question": "Do you provide uptime monitoring?",
+    "answer": "Yes — we monitor for downtime and alerts as part of premium support."
+  },
+  {
+    "question": "Do you handle domain & SSL renewals?",
+    "answer": "Yes — renewals can be included in our hosting and maintenance plans."
+  },
+  {
+    "question": "Can you manage cloud infrastructure?",
+    "answer": "Absolutely — we oversee AWS, Azure, GCP servers, scaling, and backups."
+  },
+  {
+    "question": "What if my app breaks?",
+    "answer": "We handle emergency fixes within SLA hours as part of our support contracts."
+  },
+  {
+    "question": "Do you offer performance tuning?",
+    "answer": "Yes — we optimize load time, queries, and server code to improve speed."
+  },
+  {
+    "question": "Are vulnerability scans included?",
+    "answer": "Yes — we run regular scans and remediate findings proactively."
+  },
+  {
+    "question": "Do you perform penetration tests?",
+    "answer": "Yes — PEN tests can be done as part of security hardening packages."
+  },
+  {
+    "question": "Can I get SOC 2 compliance help?",
+    "answer": "Yes — we guide you toward SOC 2 readiness and documentation."
+  },
+  {
+    "question": "Do you handle GDPR data deletion requests?",
+    "answer": "Yes — we support legal compliance for user data deletions and requests."
+  },
+  {
+    "question": "Do you sign data processing agreements?",
+    "answer": "Yes — DPA contracts can be added for enterprise clients."
+  },
+  {
+    "question": "Is two-factor authentication part of solutions?",
+    "answer": "Yes — we can implement and configure 2FA for admin access."
+  },
+  {
+    "question": "Do you use secure development practices?",
+    "answer": "Yes — code reviews, static analysis, and secure coding standards are always followed."
+  },
+  {
+    "question": "Can you encrypt sensitive data fields?",
+    "answer": "Yes — we implement encryption for databases, files, and API data."
+  },
+  {
+    "question": "Do you offer security training?",
+    "answer": "Yes — we provide briefings or training sessions on security best practices."
+  },
+  {
+    "question": "Can clients manage their access logs?",
+    "answer": "Yes — clients are provided audit logs of who accessed or changed what."
+  },
+  {
+    "question": "Do you help build SaaS growth funnels?",
+    "answer": "Yes — we design landing pages, onboarding flows, and retention campaigns."
+  },
+  {
+    "question": "Can we scale server capacity automatically?",
+    "answer": "Yes — we can configure auto-scaling via AWS/GCP to handle traffic spikes."
+  },
+  {
+    "question": "Are referral programs configurable?",
+    "answer": "Yes — we can integrate referral platforms and create custom workflows."
+  },
+  {
+    "question": "Can you add in-app analytics?",
+    "answer": "Yes — we install Mixpanel, Amplitude, or custom analytics for user behavior tracking."
+  },
+  {
+    "question": "Do you support continuous integration?",
+    "answer": "Yes — we implement CI pipelines using Jenkins, GitHub Actions, or GitLab CI."
+  },
+  {
+    "question": "Can we deploy to multiple regions?",
+    "answer": "Yes — we can configure multi-region deployments for latency and compliance."
+  },
+  {
+    "question": "Do you help with SEO campaigns?",
+    "answer": "Yes — technical SEO, content, backlinks, and tracking are part of ongoing support."
+  },
+  {
+    "question": "Can you build native social sharing?",
+    "answer": "Yes — we integrate share buttons and metadata for rich previews."
+  },
+  {
+    "question": "Do you offer conversion optimization?",
+    "answer": "Yes — we analyze UX flows and run optimizations and A/B tests."
+  },
+  {
+    "question": "Can I integrate customer surveys into my product?",
+    "answer": "Yes — integration with tools like Typeform, SurveyMonkey, and custom forms is supported."
+  },
+  {
+    "question": "Do you offer product onboarding guides?",
+    "answer": "Yes — we create onboarding tutorials, walkthroughs, and documentation."
+  },
+  {
+    "question": "Can I get training videos for my team?",
+    "answer": "Yes — customized training videos are created and provided for your product or system."
+  },
+  {
+    "question": "Do you provide user manuals?",
+    "answer": "Yes — detailed help guides or manuals can be developed for end users."
+  },
+  {
+    "question": "Can you run training webinars?",
+    "answer": "Yes — we host live or recorded webinars to train staff or customers."
+  },
+  {
+    "question": "Do you offer API documentation?",
+    "answer": "Yes — clear, structured API docs are created for your developers or partners."
+  },
+  {
+    "question": "Can you teach our team how to use the CMS?",
+    "answer": "Yes — we provide personalized sessions and access to training materials for your content team."
+  },
+  {
+    "question": "Is there documentation for custom code?",
+    "answer": "Absolutely — we deliver clear, commented documentation alongside your codebase."
+  },
+  {
+    "question": "Can we access past webinar recordings?",
+    "answer": "Yes — recorded webinars are available for you to revisit at any time in the resource hub."
+  },
+  {
+    "question": "Can we attend workshops?",
+    "answer": "Occasionally — we host virtual workshops on design, development, marketing, and startup growth."
+  },
+  {
+    "question": "Do you support onboarding new hires on your tech?",
+    "answer": "Yes — we provide system walkthroughs and setup guides for team members."
+  },
+  {
+    "question": "Is user data anonymized for testing environments?",
+    "answer": "Yes — we always mask or anonymize real data when used in test or staging environments."
+  },
+  {
+    "question": "Do you use version control for code?",
+    "answer": "Yes — every project is versioned by default using Git (GitHub, GitLab, or Bitbucket)."
+  },
+  {
+    "question": "Can I see the audit trail for sensitive changes?",
+    "answer": "Yes — all admin changes, code releases, and file uploads are logged in your project history."
+  },
+  {
+    "question": "Do you secure cross-origin APIs?",
+    "answer": "Yes — we enforce CORS policies and use secure tokens or VPN whitelists to protect API access."
+  },
+  {
+    "question": "How do you handle logout and session expiry?",
+    "answer": "Secure sessions expire after inactivity or logout, enforced via server-side policies."
+  },
+  {
+    "question": "Do you offer role-based access controls?",
+    "answer": "Yes — dashboard permissions can be set per user role for granular access control."
+  },
+  {
+    "question": "Are backend logs stored securely?",
+    "answer": "Yes — logs are encrypted, rotated, and securely stored per standard compliance policies."
+  },
+  {
+    "question": "Can we integrate with SSO systems?",
+    "answer": "Yes — we support SAML, OAuth, and custom single-sign-on (SSO) integrations."
+  },
+  {
+    "question": "Is HTTPS enforced across the site?",
+    "answer": "Absolutely — every Hirebie-built deployment includes SSL/TLS and forced HTTPS."
+  },
+  {
+    "question": "Do you offer data retention policies?",
+    "answer": "Yes — we define retention and deletion schedules compliant with GDPR or internal policy needs."
+  },
+  {
+    "question": "Can you build referral campaigns?",
+    "answer": "Yes — we can implement referral systems using in-app invites, unique links, and automated rewards."
+  },
+  {
+    "question": "Do you help with email automation flows?",
+    "answer": "Yes — we design and set up sequences for onboarding, nurturing, and re-engagement campaigns."
+  },
+  {
+    "question": "Can we A/B test landing page copy?",
+    "answer": "Yes — we use tools like Optimizely or Google Optimize to measure which copy performs best."
+  },
+  {
+    "question": "Do you build onboarding checklists?",
+    "answer": "Yes — embedded checklists help users configure apps and complete key actions step-by-step."
+  },
+  {
+    "question": "Can you integrate loyalty programs?",
+    "answer": "Yes — for SaaS and e‑commerce, we create loyalty and points systems tailored to your audience."
+  },
+  {
+    "question": "Do you help set up affiliate systems?",
+    "answer": "Yes — we integrate affiliate tracking, dashboards, and payouts for partners."
+  },
+  {
+    "question": "Can we run user feedback surveys?",
+    "answer": "Yes — we can embed NPS surveys, popups, or follow-up emails for user research."
+  },
+  {
+    "question": "Do you create drip campaigns?",
+    "answer": "Yes — we set up content drip emails or onboarding sequences to engage new signups."
+  },
+  {
+    "question": "Can you integrate product analytics?",
+    "answer": "Yes — tools like Mixpanel, Heap, or custom event tracking are supported."
+  },
+  {
+    "question": "Will you help us visualize user data?",
+    "answer": "Yes — interactive dashboards (e.g., in Google Data Studio or Power BI) can be built to showcase key metrics."
+  },
+  {
+    "question": "Can files be versioned in the system?",
+    "answer": "Yes — every uploaded document keeps older versions accessible when you upload updated files."
+  },
+  {
+    "question": "Do you support collaborative editing?",
+    "answer": "We integrate with online editors so team members can work together on documents in real time."
+  },
+  {
+    "question": "Can we tag or categorize shared files?",
+    "answer": "Yes — file folders, tags, and metadata can be added for easier search and organization."
+  },
+  {
+    "question": "Is document commenting supported?",
+    "answer": "Yes — you and your team can leave comments on drafts that facilitate feedback discussions."
+  },
+  {
+    "question": "Can I control file access per user?",
+    "answer": "Yes — permission settings allow view/download rights to be managed per collaborator role."
+  },
+  {
+    "question": "Can we restrict download rights?",
+    "answer": "Yes — we can enable or disable file download based on the client's privacy preference."
+  },
+  {
+    "question": "Are file previews mobile-friendly?",
+    "answer": "Yes — documents, images, and certain rich file types can be previewed on phones and tablets."
+  },
+  {
+    "question": "Do files sync automatically across devices?",
+    "answer": "Yes — uploads and edits are instantly reflected for all team members in real time."
+  },
+  {
+    "question": "Can we archive old files?",
+    "answer": "Yes — archived files can be hidden from view but remain accessible when needed."
+  },
+  {
+    "question": "Do you support version conflict resolution?",
+    "answer": "Yes — we notify users if simultaneous edits occur and provide merge options."
+  },
+  {
+    "question": "Can you build apps for NGOs?",
+    "answer": "Yes — we create tools for donations, volunteer coordination, and impact reports."
+  },
+  {
+    "question": "Do you support real-estate startups?",
+    "answer": "Yes — we develop property listings, virtual tours, and booking workflows."
+  },
+  {
+    "question": "Can you build fintech solutions?",
+    "answer": "Yes — we integrate secure payments, KYC flows, and financial dashboards for fintech apps."
+  },
+  {
+    "question": "Do you work on food-delivery apps?",
+    "answer": "Absolutely — we build restaurant apps, delivery tracking, and driver management interfaces."
+  },
+  {
+    "question": "Can you build healthcare patient portals?",
+    "answer": "Yes — secure, HIPAA‑compliant portals with appointment booking, records, and messaging."
+  },
+  {
+    "question": "Do you support fitness/training platforms?",
+    "answer": "Yes — apps for workout tracking, coach-led sessions, in-app purchases are within our expertise."
+  },
+  {
+    "question": "Can you build event ticketing systems?",
+    "answer": "Yes — we design ticketing marketplaces, QR scans, seating maps, and marketing integrations."
+  },
+  {
+    "question": "Do you build SaaS management dashboards?",
+    "answer": "Yes — we create multi-tenant admin interfaces, analytics, and user management tools."
+  },
+  {
+    "question": "Can you support blockchain use-cases?",
+    "answer": "Yes — we build wallets, smart contract integration, and crypto payment systems."
+  },
+  {
+    "question": "Do you develop AR/VR experiences?",
+    "answer": "Yes — we offer interactive AR tools, immersive experiences, and VR simulations."
+  },
+  {
+    "question": "Do you offer 24/7 support?",
+    "answer": "Yes — 24/7 support is available via premium plans for urgent issues."
+  },
+  {
+    "question": "Can we track support tickets?",
+    "answer": "Yes — each request gets a ticket with status updates and resolution tracking."
+  },
+  {
+    "question": "Is off-hours emergency support available?",
+    "answer": "Absolutely — emergency plans include rapid response outside normal business hours."
+  },
+  {
+    "question": "Do you provide SLA agreements?",
+    "answer": "Yes — SLAs define response times, uptime guarantees, and compensation for downtime events."
+  },
+  {
+    "question": "Can we escalate critical issues?",
+    "answer": "Yes — urgent issues can be escalated to senior engineers with fast-tracked resolution."
+  },
+  {
+    "question": "Do you offer bug fixes?",
+    "answer": "Yes — we provide ongoing bug fixes as part of your support plan."
+  },
+  {
+    "question": "Can you update dependencies and frameworks?",
+    "answer": "Absolutely — we keep your systems up to date for performance and security."
+  },
+  {
+    "question": "Do you provide monthly health reports?",
+    "answer": "Yes — we deliver monthly summaries on performance, security, and user feedback."
+  },
+  {
+    "question": "Can we add new features later?",
+    "answer": "Yes — feature requests are added as new milestones or included in retainer plans."
+  },
+  {
+    "question": "Is version rollback available?",
+    "answer": "Yes — we keep backups and can revert to previously stable versions if needed."
+  },
+  {
+    "question": "Can you monitor uptime 24/7?",
+    "answer": "Yes — premium packages include constant uptime monitoring and alert systems."
+  },
+  {
+    "question": "Do you support database optimization?",
+    "answer": "Yes — performance tuning and optimization are included in support or maintenance plans."
+  },
+  {
+    "question": "Can you fix design issues post-launch?",
+    "answer": "Yes — small design tweaks and revisions are handled under your support plan."
+  },
+  {
+    "question": "Do you offer SSL certificate renewals?",
+    "answer": "Yes — we manage SSL renewals and troubleshooting for secure HTTPS connections."
+  },
+  {
+    "question": "Can you manage domain transfers?",
+    "answer": "Yes — we assist with domain transfers, DNS configuration, and provider migrations."
+  },
+  {
+    "question": "Can we integrate business analytics tools?",
+    "answer": "Yes — we support integration with Power BI, Tableau, Looker, and custom BI tools."
+  },
+  {
+    "question": "Do you provide user behavior insights?",
+    "answer": "Yes — we include metrics like session duration, click paths, and user funnels."
+  },
+  {
+    "question": "Can we get custom KPI reports?",
+    "answer": "Absolutely — define your KPIs and we’ll build tailored dashboards and alerts."
+  },
+  {
+    "question": "Do you offer A/B test reports?",
+    "answer": "Yes — results and recommendations from A/B tests are compiled monthly."
+  },
+  {
+    "question": "Can we track marketing ROI?",
+    "answer": "Yes — we help set up tracking systems that connect spend to conversions and revenue."
+  },
+  {
+    "question": "Is real-time analytics available?",
+    "answer": "Yes — dashboards can update in real time using tools like Google Analytics or custom solutions."
+  },
+  {
+    "question": "Can we export analytics data?",
+    "answer": "Definitely — exports in CSV, PDF, or JSON formats for your records."
+  },
+  {
+    "question": "Do you offer cohort analysis?",
+    "answer": "Yes — track user segments over time to understand retention and behavior."
+  },
+  {
+    "question": "Can we visually compare metrics year-over-year?",
+    "answer": "Yes — visual reports and charts can be created for period comparisons."
+  },
+  {
+    "question": "Do you set up automated alerts for key metrics?",
+    "answer": "Yes — alert systems can notify you when KPIs move outside expected ranges."
+  },
+  {
+    "question": "Can I change platform branding?",
+    "answer": "Yes — white-label clients can customize platform logos, colors, and footer content."
+  },
+  {
+    "question": "Can you configure user roles?",
+    "answer": "Yes — define roles with different access levels, e.g., admin, editor, viewer."
+  },
+  {
+    "question": "Do you support custom login methods?",
+    "answer": "Yes — options include social login, SSO, and custom authentication."
+  },
+  {
+    "question": "Can I customize email templates?",
+    "answer": "Absolutely — we tailor notifications, emails, and branded messages for your system."
+  },
+  {
+    "question": "Do you offer feature toggles?",
+    "answer": "Yes — we implement toggles to enable or disable beta or experimental features."
+  },
+  {
+    "question": "Can I set up multiple environments?",
+    "answer": "Yes — we maintain dev, staging, and production environments for safe deployment."
+  },
+  {
+    "question": "Do you support dark mode toggles?",
+    "answer": "Yes — dark/light theme options can be added for your users."
+  },
+  {
+    "question": "Can we customize mobile app icons?",
+    "answer": "For white-label apps, yes — we can include your brand icons and splash screens."
+  },
+  {
+    "question": "Can you adjust app layouts per user group?",
+    "answer": "Yes — we build role-based UI with conditional interfaces per user type."
+  },
+  {
+    "question": "Is custom analytics embedded available?",
+    "answer": "Yes — we embed tailored analytics dashboards into your platform."
+  },
+  {
+    "question": "Can you write onboarding manuals?",
+    "answer": "Yes — detailed user and admin manuals are included in documentation services."
+  },
+  {
+    "question": "Do you provide video walkthroughs?",
+    "answer": "Yes — we create screen-recorded demos showing key workflows and features."
+  },
+  {
+    "question": "Can you host live training sessions?",
+    "answer": "Absolutely — we run interactive Q&A calls and walkthroughs for your team."
+  },
+  {
+    "question": "Do you offer content localization?",
+    "answer": "Yes — we translate docs, UI text, and guides to target languages."
+  },
+  {
+    "question": "Can you produce quick-start guides?",
+    "answer": "Yes — downloadable one-page guides help users get started fast."
+  },
+  {
+    "question": "Are interactive tutorials available?",
+    "answer": "Yes — step-by-step in-app tooltips or pop-ups can guide users through features."
+  },
+  {
+    "question": "Can you provide developer handoffs?",
+    "answer": "Yes — deliverables include code comments, API docs, and environment setup instructions."
+  },
+  {
+    "question": "Do you support post-launch training?",
+    "answer": "Yes — ongoing training is part of support packages to onboard new team members."
+  },
+  {
+    "question": "Can we request custom user paths?",
+    "answer": "Yes — we map workflows and provide guidance tailored to your business process."
+  },
+  {
+    "question": "Do you maintain document version history?",
+    "answer": "Yes — all versions of training docs are stored and accessible for reference."
+  },
+  {
+    "question": "Do you offer launch marketing packages?",
+    "answer": "Yes — we roll out coordinated launch campaigns across web, email, and social."
+  },
+  {
+    "question": "Can you create press release content?",
+    "answer": "Yes — we draft press releases and distribute them to relevant outlets."
+  },
+  {
+    "question": "Do you run influencer outreach?",
+    "answer": "Yes — we identify and coordinate with targeted influencers to promote your brand."
+  },
+  {
+    "question": "Can you design promotional banners?",
+    "answer": "Absolutely — we create eye-catching banners for websites, ads, and events."
+  },
+  {
+    "question": "Can you manage webinar promotions?",
+    "answer": "Yes — we set up registration pages, email invites, and follow-up sequences."
+  },
+  {
+    "question": "Does Hirebie offer performance analytics for freelancers?",
+    "answer": "Yes — freelancers get insights like profile views, proposal acceptance rate, repeat clients, and earnings trends."
+  },
+  {
+    "question": "Can I track project performance over time?",
+    "answer": "Yes — both clients and freelancers see milestone progress, delivery benchmarks, and review trends per project."
+  },
+  {
+    "question": "Are there insights on proposal effectiveness?",
+    "answer": "Yes — freelancers can view how many proposals were sent, opened, viewed, or replied to."
+  },
+  {
+    "question": "Do businesses get hiring insights?",
+    "answer": "Yes — business accounts receive metrics like time-to-hire, talent satisfaction, and hiring cost analytics."
+  },
+  {
+    "question": "Is there a project budget tracking feature?",
+    "answer": "Yes — track total spend, remaining budget, and itemize freelancer costs in real time via your project dashboard."
+  },
+  {
+    "question": "Can you integrate chatbot platforms?",
+    "answer": "Yes — we set up Intercom, Drift, or custom chatbots into your website or app."
+  },
+  {
+    "question": "Is performance monitoring included?",
+    "answer": "Yes — we use tools like New Relic and Datadog to monitor uptime, speed, and errors."
+  },
+  {
+    "question": "Do you support database migrations?",
+    "answer": "Absolutely — we help migrate databases safely between providers or versions."
+  },
+  {
+    "question": "Can you automate backups?",
+    "answer": "Yes — we schedule automated backups with routine checks and recovery testing."
+  },
+  {
+    "question": "Do you assist with SSL issues?",
+    "answer": "Yes — we troubleshoot SSL problems, renew certificates, and enforce secure connections."
+  },
+  {
+    "question": "Can we track API usage metrics?",
+    "answer": "Yes — we implement monitoring and usage reports for APIs and endpoints."
+  },
+  {
+    "question": "Do you offer retention analysis?",
+    "answer": "Yes — we provide insights on user retention, churn rates, and lifecycle trends."
+  },
+  {
+    "question": "Can you build audience segmentation?",
+    "answer": "Yes — segment users based on behavior, geography, or demographics in custom dashboards."
+  },
+  {
+    "question": "Do you support funnel visualization?",
+    "answer": "Absolutely — we map signup, purchase or usage funnels for optimization."
+  },
+  {
+    "question": "Can I export visual charts?",
+    "answer": "Yes — charts and graphs are exportable in PNG/PDF for presentations."
+  },
+  {
+    "question": "Can we schedule feature rollouts?",
+    "answer": "Yes — we support staged or phased rollouts via feature flags and config changes."
+  },
+  {
+    "question": "Do you support custom domain setups?",
+    "answer": "Yes — we configure and secure your own domain, SSL, and DNS settings."
+  },
+  {
+    "question": "Can we define user onboarding flows?",
+    "answer": "Yes — onboard guides, tooltips, and intro sequences are part of the build."
+  },
+  {
+    "question": "Do you offer user preference settings?",
+    "answer": "Yes — users can customize themes, notifications, and timezones."
+  },
+  {
+    "question": "Can we set up user feedback widgets?",
+    "answer": "Yes — we integrate feedback forms, surveys, or rating widgets within the product."
+  },
+  {
+    "question": "Do you provide changelog updates?",
+    "answer": "Yes — we maintain a public changelog for users to track new feature deployments."
+  },
+  {
+    "question": "Can we host internal Q&A sessions?",
+    "answer": "Yes — we run live internal sessions on updates or feature training."
+  },
+  {
+    "question": "Do you provide multilingual manuals?",
+    "answer": "Yes — documentation can be translated into multiple languages per your user base."
+  },
+  {
+    "question": "Can we access developer sandbox environments?",
+    "answer": "Yes — we provide sandbox setups with mock data for safe testing."
+  },
+  {
+    "question": "Do you offer launch-day support?",
+    "answer": "Yes — we assist with launch monitoring, announcements, and troubleshooting on launch day."
+  },
+  {
+    "question": "Can we schedule social media ads for launch?",
+    "answer": "Absolutely — we plan, design, and schedule posts and ads for launch campaigns."
+  },
+  {
+    "question": "Do you provide press-kit assets?",
+    "answer": "Yes — we prepare brand sheets, logos, screenshots, and messaging for media outreach."
+  },
+  {
+    "question": "Can you help get featured in tech blogs?",
+    "answer": "Yes — we support outreach to relevant tech media and write guest-blurb submissions."
+  },
+  {
+    "question": "Do you support video demos?",
+    "answer": "Yes — we script, record, and edit product demo videos for your platform."
+  },
+  {
+    "question": "Can we run product tutorial series?",
+    "answer": "Yes — we produce short tutorial videos for onboarding and user education."
+  },
+  {
+    "question": "Do you support data residency requirements?",
+    "answer": "Yes — we can deploy platforms in specific geo-locations to meet compliance needs."
+  },
+  {
+    "question": "Can you audit data workflows?",
+    "answer": "Yes — we review data collection, storage, and deletion processes for compliance."
+  },
+  {
+    "question": "Do you offer HIPAA compliance support?",
+    "answer": "Yes — we implement HIPAA protocols and encryption where required."
+  },
+  {
+    "question": "Can we restrict data export?",
+    "answer": "Yes — data export access can be limited to specific user roles."
+  },
+  {
+    "question": "Do you provide audit-ready logs?",
+    "answer": "Yes — we maintain logs suitable for audits and internal reviews."
+  },
+  {
+    "question": "Can we configure privacy-first defaults?",
+    "answer": "Yes — we can enable private profiles, consent banners, and cookie opt-outs by default."
+  },
+  {
+    "question": "Do you support legal hold on data?",
+    "answer": "Yes — data can be preserved from deletion as required by legal holds."
+  },
+  {
+    "question": "Do you perform consent audits?",
+    "answer": "Yes — we verify user consent flows and policies against current regulation."
+  },
+  {
+    "question": "Can we enable data encryption in transit?",
+    "answer": "Absolutely — TLS/SSL is enforced across all services."
+  },
+  {
+    "question": "Do you support SOC 2 reporting?",
+    "answer": "Yes — we can assist in meeting SOC 2 requirements and evidence collection."
+  },
+  {
+    "question": "Can you design drip-email onboarding?",
+    "answer": "Yes — we build email sequences that guide new users through your app."
+  },
+  {
+    "question": "Do you support promotional popup creation?",
+    "answer": "Yes — we design and implement in-app promotional and popup banners."
+  },
+  {
+    "question": "Can you optimize for app store listings?",
+    "answer": "Yes — we provide ASO (App Store Optimization) support for your mobile apps."
+  },
+  {
+    "question": "Do you offer competitor analysis?",
+    "answer": "Yes — we deliver reports on competitor product features and marketing strategy."
+  },
+  {
+    "question": "Can you build referral gamification systems?",
+    "answer": "Yes — we implement gamified referrals like points, badges, and rewards."
+  },
+  {
+    "question": "Are referral programs available?",
+    "answer": "Yes — refer clients or freelancers to Hirebie and earn credits or commission when they join."
+  },
+  {
+    "question": "How can I promote my package on Hirebie?",
+    "answer": "We feature your services in relevant categories, highlight top-rated offers, and add marketing tips on your profile."
+  },
+  {
+    "question": "Can I bundle services into a full solution?",
+    "answer": "Yes — create combined packages such as website + marketing + ongoing support."
+  },
+  {
+    "question": "Do you help scale small businesses?",
+    "answer": "Absolutely — we advise on tech, team building, automation, and offer strategic consulting."
+  },
+  {
+    "question": "How do I know if Hirebie is right for my next step?",
+    "answer": "It starts with a free discovery call to understand your goals and propose a clear roadmap."
+  }
+]
